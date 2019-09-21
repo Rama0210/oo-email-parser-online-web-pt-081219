@@ -10,3 +10,5 @@ end
 def initialize(emails)
   @csv_emails = csv_emails
 end
+
+def parse
