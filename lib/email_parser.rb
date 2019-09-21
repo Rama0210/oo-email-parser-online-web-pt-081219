@@ -15,7 +15,7 @@ class EmailParser
 
 end
 
-emails = "hpotter@hogwarts.org, he_who_must_not_be_named@riddleshouse.net"
+emails = "nfl@yahoo.com, falcons@atlanta.net"
 parser = EmailParser.new(emails)
 
 puts parser.parse
