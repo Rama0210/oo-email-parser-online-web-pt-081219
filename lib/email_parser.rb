@@ -12,4 +12,4 @@ def initialize(emails)
 end
 
 def parse
-  email_
+  email_array
